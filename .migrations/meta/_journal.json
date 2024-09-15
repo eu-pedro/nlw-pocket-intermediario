@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726167175031,
+      "tag": "0000_lovely_randall",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726167496653,
+      "tag": "0001_outgoing_agent_brand",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726434173956,
+      "tag": "0002_sparkling_sentinel",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ALTER TABLE "goal_completions" RENAME COLUMN "completed_at" TO "created_at";
